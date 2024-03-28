@@ -16,7 +16,7 @@
             alt="ConcertMash Logo"
             class="mr-3 h-8 w-8"
             loading="lazy"
-          /> ConcertMash
+          /> ConcertMash.
         </a>
       </div>
       <div class="col-span-3 mx-auto md:col-span-1">
@@ -38,7 +38,7 @@
       </div>
       <div class="col-span-3 mx-auto md:col-span-1 md:ml-auto md:mr-0">
         <p class="inline-flex items-center text-white">
-          Contribute on
+          Contribute on.
           <a
             href="https://github.com/mcmxcdev/ConcertMash"
             target="_blank"
